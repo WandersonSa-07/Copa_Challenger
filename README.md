@@ -3,9 +3,11 @@
 **Autor:** Wanderson Souza Sá Filho  
 **Status:** Concluído  
 
-Este repositório contém a resolução completa do desafio **Copa Challenger**, um projeto *end-to-end* de Ciência de Dados focado na análise do histórico das Copas do Mundo (1930-2022) e na previsão de resultados para a fase de grupos da Copa de 2026.
+Este repositório contém a resolução completa do desafio **Copa Challenger**, um projeto *end-to-end* de para desafiar os participantes a resolver um problema real de dados utilizando análise, visualização e modelagem preditiva.
 
 O projeto foi dividido em quatro missões principais, varrendo desde a extração e estruturação dos dados até o deploy de um modelo de Inteligência Artificial.
+
+Dataset utilizado da Kaggle (apenas das copas de 2018 e 2022): https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup
 
 ---
 
