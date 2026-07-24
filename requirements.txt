@@ -1,0 +1,10 @@
+# Missão 2 — Análise Exploratória de Dados (EDA)
+pandas
+matplotlib
+
+# Missão 3 — Dashboard e Storytelling
+streamlit
+plotly
+
+# Missão 4 — Modelo de IA / Previsão
+scikit-learn
